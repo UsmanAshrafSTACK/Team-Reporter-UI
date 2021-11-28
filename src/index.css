@@ -18,7 +18,7 @@ code {
   align-content: center;
   height: 200px;
   width: 200px;
-  margin-top: 10px;
+  margin-top: 30px;
 }
 
 /* .App-body{
@@ -37,5 +37,11 @@ code {
 }
 .right{
   display: inline;
+}
+body{
+  background-color: aqua;
+}
+.align-center{
+  text-align: center;
 }
 
